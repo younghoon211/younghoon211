@@ -4,14 +4,6 @@
 
 <br>
 
-## Contact
-<a href="younghoon211@naver.com">
-  <img src="https://img.shields.io/badge/mail-7058E8?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-<a href="younghoon211@naver.com">
-  <img src="https://img.shields.io/badge/mail-81F781?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-
 ## Skills
 <img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java"/> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-A111C4?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/>
 
